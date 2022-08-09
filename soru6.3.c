@@ -26,7 +26,7 @@ int tersi_ile_ayni_mi(char* x,int n,int i)
 int main()
 {
 	char m[20];
-    printf("hhhhhhhhhhhhhhhhhhhhhhhhhh\n");
+    printf("kelime giriniz\n");
     scanf("%20s",m);
     
     int a=0;
